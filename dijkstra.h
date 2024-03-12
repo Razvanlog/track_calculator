@@ -6,7 +6,6 @@
 #include <iostream>
 #include <cstring>
 #include "comparator_data.h"
-#define NOT_ACCESIBLE (1<<31-1)
 using namespace std;
 class dijkstra{
     private:
